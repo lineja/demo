@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f13c0ea0-8623-421f-a570-1fb9c4ebfb98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/Description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/areas/ApplicationArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/areas/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/areas/Figure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/areas/FiguresInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/areas/FiguresNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/areas/FiguresToList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/areas/Rectangular.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/areas/Rhombus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/areas/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/areas/Trapezium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/areas/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/db/DataBaseConnectionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/db/DatabaseGateway.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/db/writingtodatabase/FigureAreaWritingToDb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/db/writingtodatabase/FigureNameWritingToDb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/db/writingtodatabase/TableCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/tests/TestCircleAreaCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/tests/TestRhombusAreaCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/tests/TestSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/tests/TestTrapeziumAreaCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/tests/TestTriangleAreaCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/out/production/com.vilniuscodding.applicationarea/tests/TestsRectangularAreaCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/Description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/areas/ApplicationArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/areas/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/areas/Figure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/areas/FiguresInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/areas/FiguresNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/areas/FiguresToList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/areas/Rectangular.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/areas/Rhombus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/areas/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/areas/Trapezium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/areas/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/db/DataBaseConnectionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/db/DatabaseGateway.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/db/writingtodatabase/FigureAreaWritingToDb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/db/writingtodatabase/FigureNameWritingToDb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/db/writingtodatabase/TableCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/tests/TestCircleAreaCalculation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/tests/TestRhombusAreaCalculation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/tests/TestSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/tests/TestTrapeziumAreaCalculation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/tests/TestTriangleAreaCalculation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.vilniuscodding.applicationarea/src/tests/TestsRectangularAreaCalculation.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com.swedbank.javagyk/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <element signature="e#94#95#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com.swedbank.javagyk/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="105" />
+    <option name="width" value="1925" />
+    <option name="height" value="940" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-gyk-day1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-gyk-day1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-gyk-day1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-gyk-day1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-gyk-day1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-gyk-day1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com.swedbank.javagyk" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lsabo\IdeaProjects\24JDBC\java-gyk-day1\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swedbank.javagyk.Main" />
+      <module name="java-gyk-day1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swedbank.javagyk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f13c0ea0-8623-421f-a570-1fb9c4ebfb98" name="Default Changelist" comment="" />
+      <created>1570173897385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570173897385</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="84" width="1540" height="752" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998326" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com.swedbank.javagyk/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
